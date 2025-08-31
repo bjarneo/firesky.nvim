@@ -37,14 +37,14 @@ M.colors = {
 	comment_alt = "#7a9d9b",
 
 	-- Functions and methods
-	func = "#5a7578",
-	func_builtin = "#9cb6b9",
+	func = "#9cb6b9",
+	func_builtin = "#a3c9c8",
 
 	-- Strings
-	string = "#4a5f61",
-	string_template = "#7a9d9b",
-	string_escape = "#7a9d9b",
-	string_regex = "#7a9d9b",
+	string = "#7a9d9b",
+	string_template = "#a3c9c8",
+	string_escape = "#a3c9c8",
+	string_regex = "#a3c9c8",
 
 	-- Keywords and control flow
 	keyword = "#b8937a",
